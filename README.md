@@ -1,6 +1,7 @@
-# Full Stack Developer | Data Science Enthusiast | Telco Data Specialist
+# Full Stack Developer | Data Science Enthusiast 
  
- Python | Django | REST | FastAPI | Flask | React | React-Native 
+
+# Python | Django | REST | FastAPI | Flask | React | React-Native | Telco Data 
 
 A 'Full-stack' web developer responsible for end-to-end web app development and creative cloud engineering. I love playing with data through analytical progress and data sciences. Also energetic to work with analytics & SEO skills. I am currently working as an Executive, Telco Data & Product at ADA, Axiata Digital Bangladesh Limited where I am providing with day to day analytical solutions.
 
