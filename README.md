@@ -3,10 +3,7 @@
 
 # Python | Django | REST | FastAPI | Flask | React | React-Native | Telco Data 
 
-A 'Full-stack' web developer responsible for end-to-end web app development and creative cloud engineering. I love playing with data through analytical progress and data sciences. Also energetic to work with analytics & SEO skills. I am currently working as an Executive, Telco Data & Product at ADA, Axiata Digital Bangladesh Limited where I am providing with day to day analytical solutions.
-
-Expecting to build a long time and sustainable career in the industry of Data Science and Analytics. I am practicing creative problem solving and getting exposure to multiple projects, and I would like to contribute to the collaborative environment on which your company prides itself.
-
+An experienced practitioner in telco data and web apps, she is passionate about providing useful data and services through analytical processes and data retrieval techniques. I am determined to use my 03 years of experience and my knowledge in the development, implementation, testing, and maintenance of web and data systems to contribute to the collaborative environment that your company takes great pride in.
 
 👋 Hi, I’m Nayeem Islam (@NoManNayeem)
 
