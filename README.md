@@ -1,9 +1,9 @@
 # Full Stack Developer | Data Science Enthusiast 
  
 
-# Python | Django | REST | FastAPI | Flask | React | React-Native | Telco Data 
+# Python | MERN | GO-GIN | React | React-Native | Telco Data | Tech Manager | Evangelist | Consultant 
 
-An experienced practitioner in telco data and web apps, I am passionate about providing useful data and services through analytical processes and data retrieval techniques. I am determined to use my 03 years of experience and my knowledge in the development, implementation, testing, and maintenance of web and data systems to contribute to the collaborative environment that your company takes great pride in.
+An experienced practitioner in telco data and software-solutions, I am passionate about providing useful data and services through analytical processes and data retrieval techniques. I am determined to use my 03 years of experience and my knowledge in the development, implementation, testing, and maintenance of web and data systems to contribute to the collaborative environment that your company takes great pride in.
 
 👋 Hi, I’m Nayeem Islam (@NoManNayeem)
 
