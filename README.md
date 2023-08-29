@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nayeem Islam</h1>
 <h3 align="center">Full Stack Engineer (Python/GO/Node) | Technical Project Manager | Tech Evangelist | Data Science Enthusiast | Trainer | Passionate about Driving Business Results</h3>
 
-- 🔭 I’m currently working on **Decentralized Data Exchange and Business Messaging Platforms projects.**
+- 🔭 I’m currently working on **Business Messaging Platforms and Decentralized Data Exchange.**
 
 - 🌱 I’m currently learning **Community Building**
 
