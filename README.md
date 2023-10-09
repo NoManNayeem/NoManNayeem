@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nayeem Islam</h1>
 <h3 align="center">Full Stack Engineer (Python/GO/Node) | Technical Project Manager | Tech Evangelist | Data Science Enthusiast | Trainer | Passionate about Driving Business Results</h3>
 
-- 🔭 I’m currently working on **Business Messaging Platforms and Decentralized Data Exchange.**
+- 🔭 I’m currently working on **Generative AI and Tech Into Business.**
 
 - 🌱 I’m currently learning **Community Building**
 
 - 👯 I’m looking to collaborate on **Telco, Development and Digital Solution Industry**
 
-- 🤝 I’m looking for help with **Golang Enterprise Projects**
+- 🤝 I’m looking for help with **GEN AI EcoSystems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NoManNayeem/](https://github.com/NoManNayeem/)
 
-- 💬 Ask me about **Python, Node, GO, REST, React, React Native, ML, Data Science, Telco Products, Solution Development and Management**
+- 💬 Ask me about **Python, Node, GO, REST, React, React Native, ML, AI, Data Science, Telco Products, Solution Development and Management**
 
 - 📫 How to reach me @ **islam.nayeem@outlook.com**
 
