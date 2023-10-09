@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayeem Islam</h1>
-<h3 align="center">Full Stack Engineer (Python/GO/Node) | Technical Project Manager | Tech Evangelist | Data Science Enthusiast | Trainer | Passionate about Driving Business Results</h3>
+<h3 align="center">Tech Visionary | Multi-Stack Developer | Data Science Enthusiast | Tech Consultant | Community Leader | Telco & Gen AI</h3>
 
 - 🔭 I’m currently working on **Generative AI and Tech Into Business.**
 
