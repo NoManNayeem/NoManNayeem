@@ -16,14 +16,14 @@
 ### Explore My Insights on Medium:
 [![Medium](https://img.shields.io/badge/Medium-Nayeem%20Islam-black)](https://medium.com/@nomannayeem)
 
+
 ### Connect with Me on LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayeem%20Islam-blue)](https://bd.linkedin.com/in/nayeemislam60053)
 
-<!-- For platforms supporting HTML/JavaScript, use the following script and div for LinkedIn Badge: -->
-<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="nayeemislam60053" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/nayeemislam60053?trk=profile-badge">Nayeem Islam</a></div> -->
-
-
+<!-- LinkedIn Badge -->
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="nayeemislam60053" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/nayeemislam60053?trk=profile-badge">Nayeem Islam</a>
+</div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 
 <h3 align="left">Languages and Tools:</h3>
