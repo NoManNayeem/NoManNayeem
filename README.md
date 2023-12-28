@@ -13,6 +13,8 @@
 
 ### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayeem%20Islam-blue)](https://linkedin.com/in/nayeemislam60053)
+### Explore My Insights on Medium:
+[![Medium](https://img.shields.io/badge/Medium-Nayeem%20Islam-black)](https://medium.com/@nomannayeem)
 
 
 <h3 align="left">Languages and Tools:</h3>
