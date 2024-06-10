@@ -12,6 +12,8 @@
 - ⚡ **A Personal Insight:** Embracing the complexities of human life with a tech-driven mindset.
 
 ### Let's Connect:
+
+[![Web]](https://nayeem-islam.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayeem%20Islam-blue)](https://linkedin.com/in/nayeemislam60053)
 ### Explore My Insights on Medium:
 [![Medium](https://img.shields.io/badge/Medium-Nayeem%20Islam-black)](https://medium.com/@nomannayeem)
