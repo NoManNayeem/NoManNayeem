@@ -22,10 +22,11 @@
 ### 💬 **Let's Connect**
 - **Areas of Expertise:** 
   - Programming: **Python**, **Node.js**, **Go**.
-  - Web Development: **React**, **React Native**.
+  - Web Development: **React**, **React Native** **NextJS**.
   - Data Science & AI: **Machine Learning**, **Artificial Intelligence**.
-  - DevOps: **REST APIs**, **Solution Architecture**.
-  - Industry Focus: **Telecom Products**, **Digital Solutions**, **Management**.
+  - DevOps: **Docker**, **Kubernetes**, **CI/CD**, **Solution Architecture**.
+  - Cloud: **Azure**, **Robi Cloud**, **Digital Ocean**, **AWS**.
+  - Industry Focus: **Telecom Products**, **SAAS**, **CPaaS**, **Payment Gateway**, **AdTech**, **EdTech**, **Engineering Lead**.
 
 ### 📫 **Reach Out**
 - **Email:** [islam.nayeem@outlook.com](mailto:islam.nayeem@outlook.com)
