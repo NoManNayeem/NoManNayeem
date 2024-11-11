@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Nayeem Islam - Senior Software Engineer | Generative AI Expert | Tech Consultant" width="100%">
+</p>
+
 <h1 align="center">👋 Hello, I'm Nayeem Islam</h1>
 
 <h3 align="center">🚀 Innovator | 💻 Full-Stack Developer | 📊 Data Science Advocate | 🧠 Strategic Tech Consultant | 🌍 Community Architect | 📡 Telecom & Gen AI Expert</h3>
