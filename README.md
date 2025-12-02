@@ -54,7 +54,7 @@
 
 ---
 
-## 🚀 Executive Summary
+## 🚀 Who I Am
 
 > - **Engineering Manager & GenAI Lead** with **5+ years** owning end-to-end SDLC for AI-powered products serving **30M+ users**.
 > - **Orchestrates the Generative AI lifecycle** - from opportunity framing, model selection & RAG/agents, to secure, observable production rollout.
@@ -64,7 +64,7 @@
 
 ---
 
-## 📊 Impact Highlights
+## 📊 What I Deliver
 
 - **30M+ users** served across AI-powered and cloud-native products.
 - **40% faster delivery cycles** by redesigning SDLC workflows, CI/CD, and release governance.
@@ -73,7 +73,7 @@
 
 ---
 
-## 🛠️ Technical & Leadership Arsenal
+## 🛠️ How I Build
 
 | Domain | Core Stack |
 | :--- | :--- |
@@ -93,7 +93,7 @@
 
 ---
 
-## 💡 Leadership Philosophy (Manager README)
+## 💡 How I Lead
 
 > [!TIP]
 > **"People over Code"** - shipping durable systems by first investing in the humans who build them.
@@ -104,7 +104,7 @@
 
 ---
 
-## 🎓 Certifications
+## 🎓 Proof & Certifications
 
 <details>
 <summary><b>89+ Certifications in AI, Cloud & Leadership - click to expand</b></summary>
@@ -118,7 +118,7 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 How I Show Up on GitHub
 
 > If cards appear blank or broken, the public stats services are likely rate-limited. They usually recover on their own.
 
@@ -150,12 +150,12 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NoManNayeem/NoManNayeem/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/NoManNayeem/NoManNayeem/output/github-snake.svg" alt="GitHub contribution snake animation" />
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 What I've Shipped
 
 <table>
   <tr>
@@ -186,7 +186,7 @@
 
 ---
 
-## ✒️ Latest from Medium
+## ✒️ What I Write About
 
 *   [**FineTuning PHI-3 for RAG**: Why Small Models Are Best for Production](https://medium.com/@nomannayeem) - How to make compact models competitive for real-world RAG systems.
 *   [**Complete Guide to System Design**: From Single Server to Scalable Architecture](https://medium.com/@nomannayeem) - A practical walkthrough of scaling decisions from MVP to high-traffic systems.
