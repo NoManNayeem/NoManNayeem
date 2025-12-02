@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hello,%20I'm%20Nayeem%20Islam&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Engineering%20Manager%20%7C%20GenAI%20Lead%20%7C%20SDLC%20Architect&descAlignY=55&descAlign=50&fontColor=c9d1d9">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=Hello,%20I'm%20Nayeem%20Islam&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Engineering%20Manager%20%7C%20GenAI%20Lead%20%7C%20SDLC%20Architect&descAlignY=55&descAlign=50&fontColor=24292f">
-    <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hello,%20I'm%20Nayeem%20Islam&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Engineering%20Manager%20%7C%20GenAI%20Lead%20%7C%20SDLC%20Architect&descAlignY=55&descAlign=50&fontColor=c9d1d9">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=141321&height=300&section=header&text=Hello,%20I'm%20Nayeem%20Islam&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Engineering%20Manager%20%7C%20GenAI%20Lead%20%7C%20SDLC%20Architect&descAlignY=55&descAlign=50&fontColor=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=fafbfc&height=300&section=header&text=Hello,%20I'm%20Nayeem%20Islam&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Engineering%20Manager%20%7C%20GenAI%20Lead%20%7C%20SDLC%20Architect&descAlignY=55&descAlign=50&fontColor=0b1020">
+    <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=141321&height=300&section=header&text=Hello,%20I'm%20Nayeem%20Islam&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Engineering%20Manager%20%7C%20GenAI%20Lead%20%7C%20SDLC%20Architect&descAlignY=55&descAlign=50&fontColor=ffffff">
   </picture>
 </div>
 
