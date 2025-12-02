@@ -12,42 +12,37 @@
 
   <br />
 
-  <table>
-    <tr>
-      <td>
-        <a href="https://linkedin.com/in/islamnayeem" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-      </td>
-      <td>
-        <a href="https://nayeem-islam.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-0969da?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://medium.com/@nomannayeem" target="_blank">
-          <img src="https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" />
-        </a>
-      </td>
-      <td>
-        <a href="mailto:nayeem60151126@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Email-%23d73a49?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <a href="https://linkedin.com/in/islamnayeem" target="_blank">
+      <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&color=%23ffffff&bg=%230966da&size=34&shape=circle" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/NoManNayeem" target="_blank">
+      <img src="https://readmecodegen.vercel.app/api/social-icon?name=github&color=%23ffffff&bg=%23181717&size=34&shape=circle" alt="GitHub" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://medium.com/@nomannayeem" target="_blank">
+      <img src="https://readmecodegen.vercel.app/api/social-icon?name=medium&color=%23ffffff&bg=%2324292f&size=34&shape=circle" alt="Medium" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:nayeem60151126@gmail.com" target="_blank">
+      <img src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&color=%23ffffff&bg=%23d14836&size=34&shape=circle" alt="Email" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://nayeem-islam.vercel.app" target="_blank">
+      <img src="https://readmecodegen.vercel.app/api/social-icon?name=link&color=%23ffffff&bg=%230966da&size=34&shape=circle" alt="Portfolio" />
+    </a>
+  </p>
 
   <br />
 
-  <img src="https://komarev.com/ghpvc/?username=NoManNayeem&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NoManNayeem&color=0969da&style=flat-square" alt="Profile Views" />
 
   <br />
   <br />
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NoManNayeem&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=NoManNayeem&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="trophies" />
   </a>
 
 </div>
@@ -152,6 +147,18 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/NoManNayeem/NoManNayeem/output/github-snake.svg" alt="GitHub contribution snake animation" />
 </div>
+
+---
+
+## 🎤 Talks & Speaking
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=sta6gZB7eVU" target="_blank">
+    <img src="https://img.youtube.com/vi/sta6gZB7eVU/hqdefault.jpg" alt="TEDx Talk by Nayeem Islam" />
+  </a>
+  <br/>
+  <sub>Watch my TEDx-style talk on engineering, AI, and impact.</sub>
+</p>
 
 ---
 
