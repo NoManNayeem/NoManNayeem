@@ -115,8 +115,6 @@
 
 ## 📈 How I Show Up on GitHub
 
-> If cards appear blank or broken, the public stats services are likely rate-limited. They usually recover on their own.
-
 <div align="center">
   <a href="https://github.com/NoManNayeem">
     <picture>
@@ -157,7 +155,7 @@
     <img src="https://img.youtube.com/vi/sta6gZB7eVU/hqdefault.jpg" alt="TEDx Talk by Nayeem Islam" />
   </a>
   <br/>
-  <sub>Watch my TEDx-style talk on engineering, AI, and impact.</sub>
+  <sub>Watch my TEDx talk on engineering, AI, and impact.</sub>
 </p>
 
 ---
