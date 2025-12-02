@@ -1,14 +1,8 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=141321&height=300&section=header&text=Hello,%20I'm%20Nayeem%20Islam&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Engineering%20Manager%20%7C%20GenAI%20Lead%20%7C%20SDLC%20Architect&descAlignY=55&descAlign=50&fontColor=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=fafbfc&height=300&section=header&text=Hello,%20I'm%20Nayeem%20Islam&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Engineering%20Manager%20%7C%20GenAI%20Lead%20%7C%20SDLC%20Architect&descAlignY=55&descAlign=50&fontColor=0b1020">
-    <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=141321&height=300&section=header&text=Hello,%20I'm%20Nayeem%20Islam&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Engineering%20Manager%20%7C%20GenAI%20Lead%20%7C%20SDLC%20Architect&descAlignY=55&descAlign=50&fontColor=ffffff">
-  </picture>
-</div>
-
-<div align="center">
 
   <img src="./banner.png" alt="Nayeem Islam - Tech Lead & AI Specialist" width="100%">
+
+  <h1>Hello, I'm Nayeem Islam</h1>
 
   <br />
 
@@ -50,7 +44,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" height="30" /> Executive Summary
+## 🚀 Executive Summary
 
 > [!IMPORTANT]
 > - **Engineering Manager & GenAI Lead** with **5+ years** owning end-to-end SDLC for AI-powered products serving **30M+ users**.
@@ -62,7 +56,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Impact" width="30" height="30" /> Impact Highlights
+## 📊 Impact Highlights
 
 - **30M+ users** served across AI-powered and cloud-native products.
 - **40% faster delivery cycles** by redesigning SDLC workflows, CI/CD, and release governance.
@@ -89,20 +83,20 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Technical & Leadership Arsenal
+## 🛠️ Technical & Leadership Arsenal
 
 | Domain | Competencies & Tools |
 | :--- | :--- |
-| **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="20" height="20" /> GenAI & LLMs** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) LangChain • LangGraph • <img src="https://raw.githubusercontent.com/run-llama/logos/main/llamaindex-logo.svg" height="20" alt="LlamaIndex"/> **LlamaIndex** • Agno • CrewAI • Pydantic AI • Hugging Face • OpenAI |
-| **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="20" height="20" /> Platforms & Engineering** | ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) |
-| **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" alt="Cloud" width="20" height="20" /> Cloud, SDLC & DevOps** | ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) |
-| **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Data" width="20" height="20" /> Data & Analytics** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) |
-| **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud%20With%20Rain.png" alt="Ops" width="20" height="20" /> DevOps & CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white) |
-| **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="20" height="20" /> Leadership & Process** | Engineering management • Agile & Scrum • Roadmapping • Hiring & interviewing • Stakeholder communication |
+| **🤖 GenAI & LLMs** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) LangChain • LangGraph • <img src="https://raw.githubusercontent.com/run-llama/logos/main/llamaindex-logo.svg" height="20" alt="LlamaIndex"/> **LlamaIndex** • Agno • CrewAI • Pydantic AI • Hugging Face • OpenAI |
+| **⚙️ Platforms & Engineering** | ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) |
+| **☁️ Cloud, SDLC & DevOps** | ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) |
+| **📊 Data & Analytics** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) |
+| **🧰 DevOps & CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white) |
+| **🧭 Leadership & Process** | Engineering management • Agile & Scrum • Roadmapping • Hiring & interviewing • Stakeholder communication |
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="30" height="30" /> Leadership Philosophy (Manager README)
+## 💡 Leadership Philosophy (Manager README)
 
 > [!TIP]
 > **"People over Code"** - shipping durable systems by first investing in the humans who build them.
@@ -113,7 +107,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Diploma.png" alt="Diploma" width="30" height="30" /> Certifications
+## 🎓 Certifications
 
 <details>
 <summary><b>89+ Certifications in AI, Cloud & Leadership - click to expand</b></summary>
@@ -126,7 +120,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" height="30" /> GitHub Stats & Activity
+## 📈 GitHub Stats & Activity
 
 <p align="center">
   <svg width="80" height="16" viewBox="0 0 80 16" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pulsing activity indicator">
@@ -178,7 +172,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" height="30" /> Featured Projects
+## 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -189,7 +183,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fountain%20Pen.png" alt="Pen" width="30" height="30" /> Latest from Medium
+## ✒️ Latest from Medium
 
 *   [**FineTuning PHI-3 for RAG**: Why Small Models Are Best for Production](https://medium.com/@nomannayeem) - How to make compact models competitive for real-world RAG systems.
 *   [**Complete Guide to System Design**: From Single Server to Scalable Architecture](https://medium.com/@nomannayeem) - A practical walkthrough of scaling decisions from MVP to high-traffic systems.
