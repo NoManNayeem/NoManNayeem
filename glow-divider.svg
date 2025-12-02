@@ -1,0 +1,44 @@
+<svg width="800" height="8" viewBox="0 0 800 8" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Glow divider">
+  <defs>
+    <linearGradient id="glow-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0cf">
+        <animate attributeName="stop-color"
+                 values="#0cf;#7b5cff;#ff4ecd;#0cf"
+                 dur="6s"
+                 repeatCount="indefinite" />
+      </stop>
+      <stop offset="25%" stop-color="#7b5cff">
+        <animate attributeName="stop-color"
+                 values="#7b5cff;#ff4ecd;#ffb347;#7b5cff"
+                 dur="6s"
+                 repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#ff4ecd">
+        <animate attributeName="stop-color"
+                 values="#ff4ecd;#ffb347;#0cf;#ff4ecd"
+                 dur="6s"
+                 repeatCount="indefinite" />
+      </stop>
+      <stop offset="75%" stop-color="#ffb347">
+        <animate attributeName="stop-color"
+                 values="#ffb347;#0cf;#7b5cff;#ffb347"
+                 dur="6s"
+                 repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0cf">
+        <animate attributeName="stop-color"
+                 values="#0cf;#7b5cff;#ff4ecd;#0cf"
+                 dur="6s"
+                 repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="1" width="800" height="6" rx="3" fill="url(#glow-gradient)">
+    <animate attributeName="opacity"
+             values="0.7;1;0.7"
+             dur="3s"
+             repeatCount="indefinite" />
+  </rect>
+</svg>
+
+

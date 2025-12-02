@@ -47,7 +47,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="./glow-divider.svg" alt="Section divider" width="70%" />
+</p>
 
 ## 🚀 Who I Am
 
@@ -59,6 +61,10 @@
 
 ---
 
+<p align="center">
+  <img src="./glow-divider.svg" alt="Section divider" width="55%" />
+</p>
+
 ## 📊 What I Deliver
 
 - **30M+ users** served across AI-powered and cloud-native products.
@@ -67,6 +73,10 @@
 - **GenAI initiatives from 0 → 1 → production**, including RAG platforms, agentic workflows, and evaluation pipelines.
 
 ---
+
+<p align="center">
+  <img src="./glow-divider.svg" alt="Section divider" width="55%" />
+</p>
 
 ## 🛠️ How I Build
 
@@ -88,6 +98,10 @@
 
 ---
 
+<p align="center">
+  <img src="./glow-divider.svg" alt="Section divider" width="55%" />
+</p>
+
 ## 💡 How I Lead
 
 > [!TIP]
@@ -98,6 +112,10 @@
 > - **How I partner with stakeholders**: Translate AI and platform strategy into roadmaps, trade-offs, and measurable business outcomes.
 
 ---
+
+<p align="center">
+  <img src="./glow-divider.svg" alt="Section divider" width="55%" />
+</p>
 
 ## 🎓 Proof & Certifications
 
