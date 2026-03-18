@@ -6,7 +6,7 @@
 
   <br />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0969da&background=00000000&center=true&vCenter=true&width=720&lines=Architecting+Production+AI+%26+Agentic+Systems;Building+Low-Latency+Quantitative+Trading+Platforms;Fractional+CTO+%7C+Scaling+Teams+from+0+to+Production;Full-Stack+Engineer:+Python+%7C+Go+%7C+Rust+%7C+TypeScript)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0969da&background=00000000&center=true&vCenter=true&width=900&lines=Architecting+Production+AI+%26+Agentic+Systems;Building+Low-Latency+Quantitative+Trading+Platforms;Fractional+CTO+%7C+Scaling+Teams+from+0+to+Production;Full-Stack+Engineer:+Python+%7C+Go+%7C+Rust+%7C+TypeScript)](https://git.io/typing-svg)
 
   <p><b>Fractional CTO &amp; Engineering Lead</b> building AI/ML, agentic workflows, and quant-grade systems that ship.</p>
 
