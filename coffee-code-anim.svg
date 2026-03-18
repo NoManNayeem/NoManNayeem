@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Animated coffee cup with scrolling code">
+  <title>Coffee + Code</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1220" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#07101a" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="steamGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#20c863" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="cupStroke" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#20c863"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <clipPath id="codeClip">
+      <rect x="220" y="196" width="160" height="92" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <rect width="600" height="420" fill="url(#bg)"/>
+
+  <!-- Steam -->
+  <g fill="none" stroke="url(#steamGrad)" stroke-width="5" stroke-linecap="round">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="2.6s" repeatCount="indefinite"/>
+      <path d="M250 120 C 230 150, 245 170, 235 195"/>
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.6s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="3.1s" repeatCount="indefinite"/>
+      <path d="M305 110 C 285 140, 310 165, 292 198"/>
+      <animate attributeName="opacity" values="0.15;1;0.15" dur="3.1s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" dur="2.8s" repeatCount="indefinite"/>
+      <path d="M355 122 C 340 152, 356 170, 346 195"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- Cup -->
+  <g>
+    <path d="M180 175
+             C 180 150, 200 135, 225 135
+             C 265 135, 295 135, 345 135
+             C 370 135, 410 150, 410 175
+             L 395 290
+             C 392 315, 372 335, 347 335
+             L 243 335
+             C 218 335, 198 315, 195 290
+             Z"
+          fill="#0b1220" stroke="url(#cupStroke)" stroke-width="4" />
+
+    <!-- Coffee fill -->
+    <path d="M205 210
+             C 210 245, 222 305, 235 320
+             C 245 331, 265 335, 290 335
+             L 305 335
+             C 330 335, 350 331, 360 320
+             C 373 305, 385 245, 390 210
+             C 390 210, 205 210, 205 210 Z"
+          fill="#20c863" opacity="0.12" />
+
+    <!-- Cup rim -->
+    <path d="M210 140
+             C 230 155, 360 155, 380 140"
+          fill="none" stroke="url(#cupStroke)" stroke-width="6" stroke-linecap="round" opacity="0.9"/>
+
+    <!-- Handle -->
+    <path d="M390 190
+             C 425 188, 440 212, 436 240
+             C 431 275, 405 280, 395 272"
+          fill="none" stroke="url(#cupStroke)" stroke-width="6" stroke-linecap="round" />
+  </g>
+
+  <!-- Code area -->
+  <g clip-path="url(#codeClip)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace">
+    <rect x="220" y="196" width="160" height="92" rx="10" fill="#050b14" opacity="0.95" stroke="#1f2937" stroke-width="2"/>
+
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -78" dur="4.8s" repeatCount="indefinite"/>
+
+      <text x="236" y="222" font-size="16" fill="#93c5fd">idea = collect_signal()</text>
+      <text x="236" y="242" font-size="16" fill="#a7f3d0">research();</text>
+      <text x="236" y="262" font-size="16" fill="#c4b5fd">prototype = build_loop()</text>
+      <text x="236" y="282" font-size="16" fill="#fde68a">develop(); evaluate();</text>
+      <text x="236" y="302" font-size="16" fill="#fbcfe8">deploy(); iterate();</text>
+    </g>
+  </g>
+
+  <!-- Sub label -->
+  <text x="300" y="375" text-anchor="middle" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" fill="#94a3b8">
+    Code is the engine. Coffee is the catalyst.
+  </text>
+</svg>
+

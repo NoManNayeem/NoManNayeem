@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="Animated idea to research to development loop">
+  <title>Idea ù Research ù Development Loop</title>
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#1fd1a4" stop-opacity="0.25"/>
+      <stop offset="35%" stop-color="#7c3aed" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#0b1220" stop-opacity="1"/>
+    </radialGradient>
+    <linearGradient id="ringStroke" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#20c863" stop-opacity="1"/>
+      <stop offset="55%" stop-color="#d4ff00" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="800" fill="url(#bgGlow)"/>
+  <circle cx="400" cy="400" r="292" fill="none" stroke="url(#ringStroke)" stroke-width="4" opacity="0.55"/>
+
+  <text x="400" y="95" text-anchor="middle" font-size="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" fill="#20c863" opacity="0.98">
+    Nayeem's Day
+  </text>
+
+  <text x="400" y="405" text-anchor="middle" font-size="26" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" fill="#c7d2fe" opacity="0.95">
+    Idea &#8594; Research &#8594; Development
+  </text>
+  <text x="400" y="437" text-anchor="middle" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" fill="#94a3b8" opacity="0.95">
+    Iterative loop from signal to shipping
+  </text>
+
+  <g transform="translate(400 400)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="28s" repeatCount="indefinite"/>
+
+      <g transform="rotate(0) translate(0 -292)">
+        <circle cx="0" cy="0" r="52" fill="#07101a" stroke="#20c863" stroke-width="3"/>
+        <image href="https://cdn.jsdelivr.net/npm/feather-icons@4.29.2/dist/icons/target.svg" x="-22" y="-22" width="44" height="44"/>
+        <text x="0" y="75" text-anchor="middle" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" fill="#b7c0d8">Idea</text>
+      </g>
+
+      <g transform="rotate(45) translate(0 -292)">
+        <circle cx="0" cy="0" r="52" fill="#07101a" stroke="#d4ff00" stroke-width="3"/>
+        <image href="https://cdn.jsdelivr.net/npm/feather-icons@4.29.2/dist/icons/cpu.svg" x="-22" y="-22" width="44" height="44"/>
+        <text x="0" y="75" text-anchor="middle" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" fill="#b7c0d8">Research</text>
+      </g>
+
+      <g transform="rotate(90) translate(0 -292)">
+        <circle cx="0" cy="0" r="52" fill="#07101a" stroke="#7c3aed" stroke-width="3"/>
+        <image href="https://cdn.jsdelivr.net/npm/feather-icons@4.29.2/dist/icons/database.svg" x="-22" y="-22" width="44" height="44"/>
+        <text x="0" y="75" text-anchor="middle" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" fill="#b7c0d8">Data & Prototype</text>
+      </g>
+
+      <g transform="rotate(135) translate(0 -292)">
+        <circle cx="0" cy="0" r="52" fill="#07101a" stroke="#20c863" stroke-width="3"/>
+        <image href="https://cdn.jsdelivr.net/npm/feather-icons@4.29.2/dist/icons/code.svg" x="-22" y="-22" width="44" height="44"/>
+        <text x="0" y="75" text-anchor="middle" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" fill="#b7c0d8">Development</text>
+      </g>
+
+      <g transform="rotate(180) translate(0 -292)">
+        <circle cx="0" cy="0" r="52" fill="#07101a" stroke="#d4ff00" stroke-width="3"/>
+        <image href="https://cdn.jsdelivr.net/npm/feather-icons@4.29.2/dist/icons/user-check.svg" x="-22" y="-22" width="44" height="44"/>
+        <text x="0" y="75" text-anchor="middle" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" fill="#b7c0d8">Evaluate</text>
+      </g>
+
+      <g transform="rotate(225) translate(0 -292)">
+        <circle cx="0" cy="0" r="52" fill="#07101a" stroke="#7c3aed" stroke-width="3"/>
+        <image href="https://cdn.jsdelivr.net/npm/feather-icons@4.29.2/dist/icons/package.svg" x="-22" y="-22" width="44" height="44"/>
+        <text x="0" y="75" text-anchor="middle" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" fill="#b7c0d8">Deploy</text>
+      </g>
+
+      <g transform="rotate(270) translate(0 -292)">
+        <circle cx="0" cy="0" r="52" fill="#07101a" stroke="#20c863" stroke-width="3"/>
+        <image href="https://cdn.jsdelivr.net/npm/feather-icons@4.29.2/dist/icons/trending-up.svg" x="-22" y="-22" width="44" height="44"/>
+        <text x="0" y="75" text-anchor="middle" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" fill="#b7c0d8">Feedback</text>
+      </g>
+
+      <g transform="rotate(315) translate(0 -292)">
+        <circle cx="0" cy="0" r="52" fill="#07101a" stroke="#d4ff00" stroke-width="3"/>
+        <image href="https://cdn.jsdelivr.net/npm/feather-icons@4.29.2/dist/icons/activity.svg" x="-22" y="-22" width="44" height="44"/>
+        <text x="0" y="75" text-anchor="middle" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" fill="#b7c0d8">Scale</text>
+      </g>
+    </g>
+  </g>
+</svg>
+
